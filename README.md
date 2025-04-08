@@ -8,7 +8,7 @@
 - 📱 Love working with Android (Kotlin + Jetpack Compose)
 - 🤖 Exploring AI and Machine Learning with Python & TensorFlow
 - 🌐 Building clean and functional websites with HTML/CSS/JS/PHP
-- 📫 Reach me at: **[your.email@example.com]**
+- 📫 Reach me at: tranlam2005tk@gmail.com
 
 ## 🛠️ Tech Stack
 
