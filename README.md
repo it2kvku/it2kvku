@@ -28,7 +28,7 @@
 - 📚 **Library Management System** – Web system for managing books, loans, members  
   _PHP, MySQL, Bootstrap, JS_
 
-> Check out more in my [GitHub Repositories](https://github.com/it2vku?tab=repositories)
+> Check out more in my [GitHub Repositories](https://github.com/it2kvku?tab=repositories)
 
 ## 📊 GitHub Stats
 
