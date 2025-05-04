@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm it2vku!
+# 👋 Hi there, I'm it2kvku!
 
 🎓 I'm an IT developer currently studying at **VKU – Vietnam - Korea University of Information and Communication Technology**. I’m passionate about technology and always looking to improve my skills by building practical and impactful projects.
 
