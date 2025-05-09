@@ -51,12 +51,6 @@ You can update this directly by editing your README using the [edit link](https:
 - 🌍Portfolio Website: https://tran-lam.netlify.app/
 - 📧 tranlam2005tk@gmail.com
 
----
-Here’s an updated version of your **Tech Stack** section, incorporating badges and dynamically generated icons via links (similar to how GitHub Streak works):
 
----
-                                                                     |
-
----
 
 💬 *Thanks for visiting my GitHub! I'm always open to learning and collaboration. Let's create something cool together!* 🚀
