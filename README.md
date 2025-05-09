@@ -2,13 +2,21 @@
 
 🎓 I'm an IT developer currently studying at **VKU – Vietnam - Korea University of Information and Communication Technology**. I’m passionate about technology and always looking to improve my skills by building practical and impactful projects.
 
-## 💡 About Me
 
-- 🧑‍💻 IT student at VKU
-- 📱 Love working with Android (Kotlin + Jetpack Compose)
-- 🤖 Exploring AI and Machine Learning with Python & TensorFlow
-- 🌐 Building clean and functional websites with HTML/CSS/JS/PHP
-- 📫 Reach me at: tranlam2005tk@gmail.com
+---
+
+### 💡 About Me
+
+ **Aspect**             **Details**                                                                                   
+ 🧑‍💻 **Education**       **IT Student** at [Vietnam - Korea University of Information and Communication Technology (VKU)](https://vku.udn.vn) 
+ 📱 **Passion**          **Android Development** with ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) and **Jetpack Compose** 
+ 🤖 **Exploration**      **AI & Machine Learning** using ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white) and **TensorFlow** 
+ 🌐 **Web Development**  Building **clean and functional websites** with ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black), and ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
+ 📫 **Contact**          Reach me at: **[tranlam2005tk@gmail.com](mailto:tranlam2005tk@gmail.com)**                    
+
+---
+
+You can update this directly by editing your README using the [edit link](https://github.com/it2kvku/it2kvku/edit/main/README.md). Let me know if you'd like more suggestions!
 
 
 ### 🛠️ Tech Stack
