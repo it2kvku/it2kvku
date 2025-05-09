@@ -32,8 +32,6 @@
 
 ## 📊 GitHub Stats
 
-![it2vku's GitHub stats](https://github-readme-stats.vercel.app/api?username=it2kvku&show_icons=true&theme=default)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it2kvku&layout=compact)](https://github.com/it2kvku)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=it2kvku&theme=default&hide_border=false)
