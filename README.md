@@ -35,6 +35,7 @@
 ![it2vku's GitHub stats](https://github-readme-stats.vercel.app/api?username=it2kvku&show_icons=true&theme=default)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it2kvku&layout=compact)](https://github.com/it2kvku)
+![GitHub Profile Stats](https://camo.githubusercontent.com/0705711cca89071a651e2e981d45462671779ab68586cac0d7fef5648d56176e/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d64756f6e67646174646576267468656d653d6461726b26686964655f626f726465723d66616c7365)
 
 ## 🌐 Connect with Me
 - 🌍Portfolio Website: https://tran-lam.netlify.app/
