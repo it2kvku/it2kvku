@@ -10,12 +10,15 @@
 - 🌐 Building clean and functional websites with HTML/CSS/JS/PHP
 - 📫 Reach me at: tranlam2005tk@gmail.com
 
-## 🛠️ Tech Stack
 
-- **Languages:** Kotlin, Python, JavaScript, PHP, HTML, CSS
-- **Frameworks & Tools:** Jetpack Compose, TensorFlow, OpenCV, Firebase, Laravel (basic), Git, Android Studio, VS Code, Figma
-- **Database:** MySQL, Firebase Realtime DB
-- **Architecture:** MVVM, Clean Architecture
+### 🛠️ Tech Stack
+
+| **Category**        | **Technologies**                                                                                  |
+|---------------------|--------------------------------------------------------------------------------------------------|
+| **Languages**       | ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
+| **Frameworks & Tools** | ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%230A84FF.svg?style=flat&logo=android&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat&logo=androidstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) |
+| **Database**        | ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white) ![Firebase Realtime DB](https://img.shields.io/badge/Firebase%20Realtime%20DB-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black) |
+| **Architecture**    | MVVM, Clean Architecture    
 
 ## 📌 Projects I'm Proud Of
 
@@ -39,6 +42,12 @@
 ## 🌐 Connect with Me
 - 🌍Portfolio Website: https://tran-lam.netlify.app/
 - 📧 tranlam2005tk@gmail.com
+
+---
+Here’s an updated version of your **Tech Stack** section, incorporating badges and dynamically generated icons via links (similar to how GitHub Streak works):
+
+---
+                                                                     |
 
 ---
 
